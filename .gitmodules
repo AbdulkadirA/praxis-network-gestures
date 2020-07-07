@@ -1,0 +1,3 @@
+[submodule "BrainNet-Viewer"]
+	path = BrainNet-Viewer
+	url = https://github.com/mingruixia/BrainNet-Viewer.git
